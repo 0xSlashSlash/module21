@@ -19,5 +19,5 @@ STEPS TAKEN
 
 which was then followed by some testing on the deployed contracts as visible in the following screenshots.
 
-![purchase1](https://user-images.githubusercontent.com/101845770/185772940-745feb13-456b-4443-88ac-934943b50d05.png)
-![purchase2](https://user-images.githubusercontent.com/101845770/185772941-693ac5b2-f91d-416c-83df-fc31c3fbe51c.png)
+![purchase1](https://user-images.githubusercontent.com/101845770/185803979-efab2b33-f490-4490-9095-788276808bf9.png)
+![purchase2](https://user-images.githubusercontent.com/101845770/185803980-0b326fd6-c5a9-401d-ae29-00954435f095.png)
