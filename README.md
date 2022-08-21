@@ -15,7 +15,8 @@ STEPS TAKEN
 
 4. Deploy the Crowdsale to a Local Blockchain
 (Completed as displayed in the following screenshot)
-![deployed](https://user-images.githubusercontent.com/101845770/185772914-6442b505-92cc-4483-978a-99e7e36d58cc.png)
+![deployed](https://user-images.githubusercontent.com/101845770/185804054-d5dfc58b-c759-467e-913b-960315947a34.png)
+
 
 which was then followed by some testing on the deployed contracts as visible in the following screenshots.
 
